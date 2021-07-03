@@ -8,7 +8,7 @@ var badArray = []
 var badImg;
 var explosionImg;
 //var level = 1;
-var width = windowWidth/3;
+var width = windowWidth/2;
 var height = windowHeight/1.35;
 var gameState = "play"
 
