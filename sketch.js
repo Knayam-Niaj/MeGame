@@ -8,7 +8,7 @@ var badArray = []
 var badImg;
 var explosionImg;
 //var level = 1;
-var width = windowWidth/2;
+var width = windowWidth/3;
 var height = windowHeight/1.35;
 var gameState = "play"
 
@@ -26,7 +26,7 @@ function setup(){
     
     
     //475
-    createCanvas(windowWidth/2, windowHeight/1.35);
+    createCanvas(windowWidth/3, windowHeight/1.35);
 
     bulletGroup = new Group();
 
